@@ -1,8 +1,8 @@
 ### **Playwright Installation :-**
 
-**npm init playwright@latest**
+npm init playwright@latest
 
-**Playwright Test Execution**
+### **Playwright Test Execution**
 
 * Headless mode -
 **npx playwright test**
@@ -31,6 +31,6 @@
 * To open last HTML report run:
 **npx playwright show-report**
 
-Locators
+### Locators
 
 
